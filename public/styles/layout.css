@@ -18,6 +18,33 @@ body {
   color: #545149;
   background-color: #f4f1ec;
   font-size: 24px;
+  font-family: 'Source Sans Pro', 'sans-serif'
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   padding-left: 5%;
+   padding-right: 5%;
+}
+
+/* Smartphone */
+
+@media only screen and (min-width: 1024px) {
+  /* Write CSS rules that target Laptop/Desktop screen sizes and beyond */
+   body {
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+   }
+
+   main {
+     display: flex;
+     align-items: center;
+     margin-top: 250px;
+   }
 }
 
 /*

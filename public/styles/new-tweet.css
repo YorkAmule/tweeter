@@ -1,0 +1,28 @@
+.new-tweet {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+textarea {
+  width: 1000px;
+  height: 50px;
+  background: transparent;
+  border-top: 0px none;
+  border-right: 0px none;
+  border-left: 0px none;
+  border-bottom-width: thick;
+  font-weight: bold;
+}
+
+button {
+  background-color: #4056A1;
+  font-family: 'Bungee';
+  color: white;
+}
+
+output {
+  padding-left: 84%;
+  font-family: 'Bungee';
+}
+
