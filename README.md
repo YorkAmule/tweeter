@@ -12,7 +12,7 @@ Through this Twitter clone, we have all the features regular Twitter has.  We ar
 ## Screenshots
 We have the tweet area here:
 
-!["Tweet area"]("https://raw.githubusercontent.com/YorkAmule/tweeter/master/docs/tweet_area.png")
+!["Tweet area"]("https://github.com/YorkAmule/tweeter/master/docs/tweet_area.png")
 
 As well as the profile image here:
 
