@@ -8,8 +8,11 @@ This repository is the starter code for the project: Students will fork and clon
 
 Through this Twitter clone, we have all the features regular Twitter has.  We are able to upload tweets, and retrieve them from the database.  The web page also adapts to multiple screen sizes.
 
+
+## Screenshots
 We have the tweet area here:
-!["Tweet area"]("https://github.com/YorkAmule/tweeter/blob/master/docs/tweet_area.png?raw=true")
+
+!["Tweet area"]("https://raw.githubusercontent.com/YorkAmule/tweeter/master/docs/tweet_area.png")
 
 As well as the profile image here:
 !["Profile Image"]("https://github.com/YorkAmule/tweeter/blob/master/docs/profile.png")
