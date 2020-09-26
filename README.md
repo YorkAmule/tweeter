@@ -15,10 +15,13 @@ We have the tweet area here:
 !["Tweet area"]("https://raw.githubusercontent.com/YorkAmule/tweeter/master/docs/tweet_area.png")
 
 As well as the profile image here:
+
 !["Profile Image"]("https://github.com/YorkAmule/tweeter/blob/master/docs/profile.png")
 
 Here is the difference between a hovered tweet and a non-hovered tweet.
+
 !["Hovered Tweet"]("https://github.com/YorkAmule/tweeter/blob/master/docs/highlighted_tweet.png")
+
 !["Non-Hovered Tweet"]("https://github.com/YorkAmule/tweeter/blob/master/docs/regular_tweet.png")
 
 
