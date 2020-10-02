@@ -12,17 +12,17 @@ Through this Twitter clone, we have all the features regular Twitter has.  We ar
 ## Screenshots
 We have the tweet area here:
 
-!["Tweet area"]("https://github.com/YorkAmule/tweeter/master/docs/tweet_area.png")
+!["Tweet area"]("https://github.com/YorkAmule/tweeter/master/docs/tweet_area.png?raw=true")
 
 As well as the profile image here:
 
-!["Profile Image"]("https://github.com/YorkAmule/tweeter/blob/master/docs/profile.png")
+!["Profile Image"]("https://github.com/YorkAmule/tweeter/blob/master/docs/profile.png?raw=true")
 
 Here is the difference between a hovered tweet and a non-hovered tweet.
 
-!["Hovered Tweet"]("https://github.com/YorkAmule/tweeter/blob/master/docs/highlighted_tweet.png")
+!["Hovered Tweet"]("https://github.com/YorkAmule/tweeter/blob/master/docs/highlighted_tweet.png?raw=true")
 
-!["Non-Hovered Tweet"]("https://github.com/YorkAmule/tweeter/blob/master/docs/regular_tweet.png")
+!["Non-Hovered Tweet"]("https://github.com/YorkAmule/tweeter/blob/master/docs/regular_tweet.png?raw=true")
 
 
 
